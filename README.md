@@ -9,7 +9,7 @@ A C++ program to apply filters on your image.
 
 >NOTE: If you experience any issues while following step two, running `chmod +x install.sh` may help.
 
-If you wish to uninstall the program, simply run `./uninstall.sh` to execute uninstallation script. 
+If you wish to uninstall the program, simply run `./uninstall.sh` to execute the uninstallation script. 
 
 ## Supported formats
 
