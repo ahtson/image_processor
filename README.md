@@ -2,6 +2,15 @@
 
 A C++ program to apply filters on your image.
 
+## Installation
+
+1) Clone this repository and switch to project folder: `git clone https://github.com/ahtson/image_processor && cd image_processor`.
+2) Run the install script using `./install.sh`.
+
+>NOTE: If you experience any issues while following step two, running `chmod +x install.sh` may help.
+
+If you wish to uninstall the program, simply run `./uninstall.sh` to execute uninstallation script. 
+
 ## Supported formats
 
 All input and output data should be in [BMP](http://en.wikipedia.org/wiki/BMP_file_format) format.
@@ -82,6 +91,4 @@ Converts a continuous gradation of tone to several regions of fewer tones, makin
 - Filters
 - Controller
 - Commandline arguments parser 
-
-## Building
 
